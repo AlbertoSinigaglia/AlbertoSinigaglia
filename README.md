@@ -9,6 +9,8 @@ I'm Alberto Sinigaglia. Heres some infos about me:
 
 Currently I'm working on a Multi Agent Reinforcement Learning (MARL) AI that should be able to play Briscola in teams, which will also be my master thesis project. 
 
+My personal website: [albertosinigaglia.me](albertosinigaglia.me)
+
 ## Main projects
 I really appreciate spending time coding projects, out of which the following are the ones that I'm proud/I like the most:
  - [Force based graph](https://github.com/AlbertoSinigaglia/force-graph): self organizing graph using non convex gradieng descet based optimization, [demo online](https://albertosinigaglia.me/projects/force-graph/force-graph-optimization.html)
