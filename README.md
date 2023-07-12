@@ -17,6 +17,7 @@ I really appreciate spending time coding projects, out of which the following ar
  - [Variance reducing gradient descent algorihtms](https://github.com/AlbertoSinigaglia/optimizer-sarah-spiderboost-snvrg): implementation of SARAH, SNVRG, SpiderBoost, variance reducing algorithms for stochastic gradient descent optimization
  - [Attention sampling classification](attention-sampling-classification): classification of mega-pixel images using attention sampling, trained using Reinforcment learning
  - [Discrete GANs](https://github.com/AlbertoSinigaglia/discrete-gans): GANs with a discrete generator, trained using Reinforcment Learning or Straight through estimator
+ - [Pix2Pix](https://github.com/AlbertoSinigaglia/pix2pix): Pix2Pix implementation with multiple well-known network architectures
 
  - [Canvas animations (old)](https://github.com/AlbertoSinigaglia/canvas-animations): collections of animations done in pure JS using Canvas
     - [webcam to checkboxes](https://albertosinigaglia.me/projects/Canvas/checkboxVideoWebcam.html)
