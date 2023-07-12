@@ -6,6 +6,7 @@ I'm Alberto Sinigaglia. Heres some infos about me:
  - very passioned on everything Reinforcement Learning related
  - I have a Bachelor in CompSci @ Unipd
  - I'm graduating in DataScience @ Unipd with a specialization in Deep Learning
+ - I really like helping people on [StackOverflow](https://stackoverflow.com/users/12361700/alberto-sinigaglia)
 
 Currently I'm working on a Multi Agent Reinforcement Learning (MARL) AI that should be able to play Briscola in teams, which will also be my master thesis project. 
 
