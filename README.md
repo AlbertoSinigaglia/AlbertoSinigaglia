@@ -18,6 +18,7 @@ I really appreciate spending time coding projects, out of which the following ar
  - [Snake using RL](https://github.com/AlbertoSinigaglia/snake-reinforcement-learning): Reinforcement learning agent that learns to play snake
  - [Block coordinate gradient descent methods](https://github.com/AlbertoSinigaglia/block-coordinates-gradient-descent-algorithms): implementation of multiple block coodinate gradient descent algorithms for a convex high-dimensional loss function
  - [Variance reducing gradient descent algorihtms](https://github.com/AlbertoSinigaglia/optimizer-sarah-spiderboost-snvrg): implementation of SARAH, SNVRG, SpiderBoost, variance reducing algorithms for stochastic gradient descent optimization
+ - [Hangman using RL](https://github.com/AlbertoSinigaglia/hangman-reinforcement-learning): Reinforcement learning agent that learns to play hangman
  - [Attention sampling classification](attention-sampling-classification): classification of mega-pixel images using attention sampling, trained using Reinforcment learning
  - [Discrete GANs](https://github.com/AlbertoSinigaglia/discrete-gans): GANs with a discrete generator, trained using Reinforcment Learning or Straight through estimator
  - [Pix2Pix](https://github.com/AlbertoSinigaglia/pix2pix): Pix2Pix implementation with multiple well-known network architectures
