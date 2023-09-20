@@ -15,6 +15,7 @@ My personal website: [albertosinigaglia.me](https://albertosinigaglia.me)
 ## Main projects
 I really appreciate spending time coding projects, out of which the following are the ones that I'm proud/I like the most:
  - [Force based graph](https://github.com/AlbertoSinigaglia/force-graph): self organizing graph using non convex gradieng descet based optimization, [demo online](https://albertosinigaglia.me/projects/force-graph/force-graph-optimization.html)
+ - [Binarized Neural Network](https://github.com/AlbertoSinigaglia/binarized-neural-networks): implementation of binarized neural networks using first order logic and MaxSAT solvers
  - [Snake using RL](https://github.com/AlbertoSinigaglia/snake-reinforcement-learning): Reinforcement learning agent that learns to play snake
  - [Block coordinate gradient descent methods](https://github.com/AlbertoSinigaglia/block-coordinates-gradient-descent-algorithms): implementation of multiple block coodinate gradient descent algorithms for a convex high-dimensional loss function
  - [Variance reducing gradient descent algorihtms](https://github.com/AlbertoSinigaglia/optimizer-sarah-spiderboost-snvrg): implementation of SARAH, SNVRG, SpiderBoost, variance reducing algorithms for stochastic gradient descent optimization
