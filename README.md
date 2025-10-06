@@ -9,7 +9,7 @@ I'm Alberto Sinigaglia. Heres some infos about me:
  - I have a Bachelor Degree in CompSci @ UniPD
  - I really like helping people on [StackOverflow](https://stackoverflow.com/users/12361700/alberto-sinigaglia) and [StackExchange](https://ai.stackexchange.com/users/52501/alberto?tab=profile)
 
-My very not updated personal website: [albertosinigaglia.me](https://albertosinigaglia.me)
+My very not updated [personal website albertosinigaglia.me](https://albertosinigaglia.me) and my maybe a bit more updated [CV](https://albertosinigaglia.me/assets/file/cv.pdf)
 
 ## Major Publications
 
