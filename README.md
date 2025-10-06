@@ -1,17 +1,41 @@
 ### Hi there 👋
 
 I'm Alberto Sinigaglia. Heres some infos about me:
- - AI enthusias
+ - I'm doing a PhD in Deep Reinforcement Learning @ University of Padua
+ - I'm extremely proud of having published at ICML and Neurips
  - very passioned on everything Deep Learning related
  - very passioned on everything Reinforcement Learning related
- - Currently doing a PhD in Deep Reinforcement Learning (or maybe not) @ UniPD
  - I have a Master Degree DataScience @ UniPD
  - I have a Bachelor Degree in CompSci @ UniPD
- - I really like helping people on [StackOverflow](https://stackoverflow.com/users/12361700/alberto-sinigaglia)
-
-Currently I'm working on a Multi Agent Reinforcement Learning (MARL) AI that should be able to play Briscola in teams, which will also be my master thesis project. 
+ - I really like helping people on [StackOverflow](https://stackoverflow.com/users/12361700/alberto-sinigaglia) and [StackExchange](https://ai.stackexchange.com/users/52501/alberto?tab=profile)
 
 My very not updated personal website: [albertosinigaglia.me](https://albertosinigaglia.me)
+
+## Major Publications
+
+- **Sinigaglia, A.\***, Sartor, D.\*, et al.  
+  *Simple and Effective Specialized Representations for Fair Classifiers.*  
+  Advances in Neural Information Processing Systems (**NeurIPS 2025**)  
+
+- **Sinigaglia, A.\***, Sartor, D.\*, et al.  
+  *Advancing Constrained Monotonic Neural Networks: Achieving Universal Approximation Beyond Bounded Activations.*  
+  Forty-Second International Conference on Machine Learning (**ICML 2025**)  
+
+- Carletti, M., **Sinigaglia, A.**, et al.  
+  *On the Limitations of Adversarial Training for Robust Image Classification with Convolutional Neural Networks.*  
+  **Information Sciences (2024)**: 120703  
+
+
+- **Sinigaglia, A.**,  et al.
+  *Edge Delayed Deep Deterministic Policy Gradient: Efficient Continuous Control for Edge Scenarios.*  
+  **IEEE Transactions on Automation Science and Engineering (2025)**  
+
+- Wiebe, F., **Sinigaglia, A.**, et al.  
+  *Reinforcement Learning for Robust Athletic Intelligence: Lessons from the 2nd "AI Olympics with RealAIGym" Competition.*  
+  **IEEE Robotics and Automation Magazine (2025)**  
+
+\* Equal contribution
+
 
 ## Main projects
 I really appreciate spending time coding projects, out of which the following are the ones that I'm proud/I like the most:
